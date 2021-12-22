@@ -1,5 +1,5 @@
 # Human Activity recognition using smartphone Data sets
-Demonstrate any Machine Learning Algorithm using the Human activity recognition using 
+Demonstrate Machine Learning Algorithm using the Human activity recognition using 
 smartphone data using dataset from the UCI Machine Learning Repository. The experiments
 have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. 
 Each person performed six activities (WALKING, WALKING_UPSTAIRS, 
