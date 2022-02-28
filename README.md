@@ -2,12 +2,12 @@
 
 ## Required Python Libraries
 
-** python => 3.7
-** pandas
-** numpy
-** matplotlib
-** seaborn
-** sklearn
+* python => 3.7
+* pandas
+* numpy
+* matplotlib
+* seaborn
+* sklearn
 
 * Note: You can install above libraries uning pip or conda.
 
