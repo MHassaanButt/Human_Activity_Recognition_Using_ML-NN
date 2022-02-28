@@ -1,4 +1,4 @@
-# Human Activity recognition using smartphone Data
+# Human Activity Recognition using smartphone Data
 
 ## Required Python Libraries
 
